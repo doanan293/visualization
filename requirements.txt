@@ -1,3 +1,7 @@
 numpy
 pandas
 mlxtend==0.23.1
+matplotlib
+statsmodels
+plotly
+nbformat
